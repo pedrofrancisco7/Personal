@@ -1,0 +1,12 @@
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/bin/Debug/net6.0/Yupass.Domain.deps.json
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/bin/Debug/net6.0/Yupass.Domain.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/bin/Debug/net6.0/Yupass.Domain.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/Yupass.Domain.csproj.AssemblyReference.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/Yupass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/Yupass.Domain.AssemblyInfoInputs.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/Yupass.Domain.AssemblyInfo.cs
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/Yupass.Domain.csproj.CoreCompileInputs.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/Yupass.Domain.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/refint/Yupass.Domain.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/Yupass.Domain.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Domain/obj/Debug/net6.0/ref/Yupass.Domain.dll

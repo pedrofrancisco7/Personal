@@ -1,0 +1,17 @@
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.csproj.AssemblyReference.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.AssemblyInfoInputs.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.AssemblyInfo.cs
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.csproj.CoreCompileInputs.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/bin/Debug/net6.0/Yupass.Data.deps.json
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/bin/Debug/net6.0/Yupass.Data.runtimeconfig.json
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/bin/Debug/net6.0/Yupass.Data.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/bin/Debug/net6.0/Yupass.Data.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/bin/Debug/net6.0/Yupass.Domain.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/bin/Debug/net6.0/Yupass.Domain.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.csproj.CopyComplete
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/refint/Yupass.Data.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/Yupass.Data.genruntimeconfig.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Data/obj/Debug/net6.0/ref/Yupass.Data.dll

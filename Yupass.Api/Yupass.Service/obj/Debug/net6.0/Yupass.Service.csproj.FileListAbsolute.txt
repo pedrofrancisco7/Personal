@@ -1,0 +1,17 @@
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/bin/Debug/net6.0/Yupass.Service.deps.json
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/bin/Debug/net6.0/Yupass.Service.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/bin/Debug/net6.0/Yupass.Service.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/bin/Debug/net6.0/Yupass.Data.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/bin/Debug/net6.0/Yupass.Domain.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/bin/Debug/net6.0/Yupass.Data.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/bin/Debug/net6.0/Yupass.Domain.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/Yupass.Service.csproj.AssemblyReference.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/Yupass.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/Yupass.Service.AssemblyInfoInputs.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/Yupass.Service.AssemblyInfo.cs
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/Yupass.Service.csproj.CoreCompileInputs.cache
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/Yupass.Service.csproj.CopyComplete
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/Yupass.Service.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/refint/Yupass.Service.dll
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/Yupass.Service.pdb
+/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/obj/Debug/net6.0/ref/Yupass.Service.dll

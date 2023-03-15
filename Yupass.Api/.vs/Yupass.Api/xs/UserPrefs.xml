@@ -1,0 +1,81 @@
+﻿<Properties StartupConfiguration="{DE1207A8-99BA-415F-816B-4A24734F3143}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Yupass.Application/Controllers/UsuariosController.cs">
+    <Files>
+      <File FileName="Yupass.Application/Controllers/UsuariosController.cs" Line="42" Column="38" />
+      <File FileName="Yupass.IoC/Mappings/DtoToModelProfile.cs" Line="24" Column="23" />
+      <File FileName="Yupass.IoC/Mappings/ModelToEntityProfile.cs" Line="12" Column="38" />
+      <File FileName="Yupass.IoC/DependencyInjection/ConfigureService.cs" Line="1" Column="1" />
+      <File FileName="Yupass.IoC/DependencyInjection/ConfigureRepository.cs" Line="1" Column="1" />
+      <File FileName="Yupass.Domain/Models/UsuarioModel.cs" Line="3" Column="14" />
+      <File FileName="Yupass.Domain/Dtos/Usuarios/UsuarioDTOCreate.cs" Line="5" Column="14" />
+      <File FileName="Yupass.Data/Context/AppDbContext.cs" Line="41" Column="15" />
+      <File FileName="Yupass.Domain/Interfaces/Services/Users/IUsuariosService.cs" Line="5" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Yupass.Api" expanded="True">
+            <Node name="1 - Application" expanded="True">
+              <Node name="Yupass.Application" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="2 - Service" expanded="True">
+              <Node name="Yupass.Service" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="3 - Domain" expanded="True">
+              <Node name="Yupass.Domain" expanded="True">
+                <Node name="Dtos" expanded="True">
+                  <Node name="Usuarios" expanded="True" />
+                </Node>
+                <Node name="Interfaces" expanded="True">
+                  <Node name="Services" expanded="True">
+                    <Node name="Users" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Models" expanded="True" />
+                <Node name="Repository" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="4 - Infra" expanded="True">
+              <Node name="4.1 - Data" expanded="True">
+                <Node name="Yupass.Data" expanded="True">
+                  <Node name="Context" expanded="True" />
+                  <Node name="Implementation" expanded="True" />
+                  <Node name="Mapping" expanded="True" />
+                  <Node name="Migrations" expanded="True">
+                    <Node name="Initialize" expanded="True" />
+                  </Node>
+                  <Node name="Repository" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="4.2 - CrossCutting" expanded="True">
+                <Node name="Yupass.IoC" expanded="True">
+                  <Node name="DependencyInjection" expanded="True" />
+                  <Node name="Mappings" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="5 - Tests" expanded="True">
+              <Node name="Yupass.Data.Test" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Application/Controllers/UsuariosController.cs" relfile="Yupass.Application/Controllers/UsuariosController.cs" line="102" column="13" />
+      <Breakpoint file="/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Service/Services/LoginService.cs" relfile="Yupass.Service/Services/LoginService.cs" line="117" column="9" />
+      <Breakpoint file="/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Application/Controllers/LoginController.cs" relfile="Yupass.Application/Controllers/LoginController.cs" line="30" column="9" />
+      <Breakpoint file="/Users/pedrorodrigues/Documents/Projetos/Yuppie/Yupass/Yupass.Api/Yupass.Application/Controllers/UsuariosController.cs" relfile="Yupass.Application/Controllers/UsuariosController.cs" line="65" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.1_220-_220Application.Yupass.Application PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

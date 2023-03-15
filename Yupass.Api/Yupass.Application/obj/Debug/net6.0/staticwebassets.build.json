@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FvRDQEMqH6QxifNdOLh1JKIpKea1czl5ifSO79yViug=",
+  "Source": "Yupass.Application",
+  "BasePath": "_content/Yupass.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
